@@ -12,6 +12,14 @@ header {
   padding: 20px;
   text-align: center;
 }
+nav ul {
+  list-style-type: none;
+  padding: 0;
+}
+nav ul li {
+  display: inline;
+  margin-right: 20px;
+}
 .container {
   max-width: 800px;
   margin: auto;
